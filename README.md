@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there \Ov0/
 
-<!--
-**atauln/atauln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### My name is Ata, and I am a freshman at the Rochester Institute of Technology, as well as a member of the Computer Science House!
 
-Here are some ideas to get you started:
+Proficient Languages:
+ - Java
+ - VB.NET
+ 
+Looking to Learn:
+ - Python
+ - Rust
+ - TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on [PARCSTAR](https://github.com/atauln/PARCSTAR)!
+
+Some of my previous projects are, in backwards chronological order:
+ - [Guitar Parser Made in 24 Hours](https://github.com/atauln/RevUC-XI)
+ - [Computer Building Game in the Terminal](https://github.com/atauln/ComputerBuildingProgramT)
+ - [Unfinished Java Wrapper that used my High School's REST API to get Information](https://github.com/atauln/project-linx)
+ - [Minecraft Damage Calculator for 1.16+ written in VB.NET](https://github.com/atauln/MinecraftDamageCalculator)
