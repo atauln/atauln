@@ -1,4 +1,4 @@
-### Hi there \Ov0/
+### Hi there!
 
 #### My name is Ata, and I am a freshman at the Rochester Institute of Technology, as well as a member of the Computer Science House!
 
