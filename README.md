@@ -4,14 +4,14 @@
 
 Proficient Languages:
  - Java
- 
-Currently Learning:
  - Python
  
 Looking to Learn:
  - Rust
  - TypeScript
  - SQL
+
+Currently working on [TigerWallet](https://github.com/atauln/TigerWallet)!
 
 Some of my previous projects are, in backwards chronological order:
  - [PARCSTAR](https://github.com/atauln/PARCSTAR)
