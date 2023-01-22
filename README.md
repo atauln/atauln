@@ -5,11 +5,16 @@
 Proficient Languages:
  - Java
  - Python
+ - SQL
+ - Kotlin
+ - Scheme
+ - Golang
  
 Looking to Learn:
  - Rust
  - TypeScript
- - SQL
+ - C
+ - C++
 
 Currently working on [TigerWallet](https://github.com/atauln/TigerWallet)!
 
