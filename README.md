@@ -9,12 +9,13 @@ Proficient Languages:
  - Kotlin
  - Scheme
  - Golang
+ - C
  
 Looking to Learn:
  - Rust
  - TypeScript
- - C
  - C++
+ - Dart
 
 Currently working on [TigerWallet](https://github.com/atauln/TigerWallet)!
 
